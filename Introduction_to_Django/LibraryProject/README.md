@@ -1,4 +1,4 @@
-cat > README.md << EOL
+
 # LibraryProject - Django Project Setup
 
 This is the initial setup for the \`LibraryProject\`, a Django-based application created as part of the \`Alx_DjangoLearnLab/Introduction_to_Django\` repository. This project serves as the foundation for developing Django applications.
